@@ -39,7 +39,7 @@ const defaultProjects: Project[] = [
     description:
       "Deep learning model to identify plant diseases from leaf images, helping farmers take timely action to prevent crop loss.",
     image:
-      "public/crop.png",
+      "/crop.png",
     technologies: [
       { name: "Python", color: "bg-blue-500" },
       { name: "TensorFlow", color: "bg-orange-500" },
@@ -69,7 +69,7 @@ const defaultProjects: Project[] = [
     description:
       "Web application that generates custom QR codes with various styling options and tracking capabilities.",
     image:
-      "public/qr.png",
+      "/qr.png",
     technologies: [
       { name: "Python", color: "bg-yellow-500" },
       { name: "Tkinder", color: "bg-blue-400" },
@@ -85,7 +85,7 @@ const defaultProjects: Project[] = [
     description:
       "Comprehensive solution for hotel operations including booking, room management, billing, and customer service.",
     image:
-      "public/hotel.png",
+      "/hotel.png",
     technologies: [
       { name: "HTML", color: "bg-red-500" },
       { name: "JS ", color: "bg-green-500" },
@@ -116,7 +116,7 @@ const defaultProjects: Project[] = [
     description:
       "I'm A developer ",
     image:
-      "public/port.png",
+      "/port.png",
     technologies: [
       { name: "React", color: "bg-blue-500" },
       { name: "node js", color: "bg-purple-500" },
